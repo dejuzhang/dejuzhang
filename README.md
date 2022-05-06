@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wheatland
+- 👋 Hi, I’m @leleland
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on whatever
